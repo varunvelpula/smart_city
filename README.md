@@ -1,2 +1,2 @@
-Codes for TPSA projecy titled smart city
+Codes for TPSA project titled smart city
 
